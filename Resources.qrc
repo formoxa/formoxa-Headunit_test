@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>MusicPlayerBackground.jpg</file>
+  </qresource>
+  <qresource prefix="Images">
+    <file>AlbumCover.svg</file>
+  </qresource>
+  <qresource prefix="Buttons">
+    <file>CurrentItemInLoop.svg</file>
+    <file>Sequential.svg</file>
+    <file>Close.svg</file>
+    <file>Random.svg</file>
+    <file>Loop.svg</file>
+    <file>Mute.svg</file>
+    <file>OpenFile.svg</file>
+    <file>Next.svg</file>
+    <file>Pause.svg</file>
+    <file>Play.svg</file>
+    <file>Previous.svg</file>
+    <file>Stop.svg</file>
+  </qresource>
+</RCC>
